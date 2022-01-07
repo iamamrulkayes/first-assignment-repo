@@ -1,0 +1,128 @@
+body{
+    font-family: 'Libre Baskerville', serif;
+    
+}
+
+
+
+.half{
+    width: 50%;
+}
+
+.meet{
+    display: flex;
+    margin-left: 80px;
+    
+}
+.half img{
+    width: 80%;
+}
+p{
+    font-size: 30px;
+}
+h1{
+    font-size: 60px;
+}
+.span{
+    color: orange;
+}
+.red{
+    border-left: 5px solid red;
+    
+}
+.anchor{
+    text-decoration: none;
+    color: white;
+    padding: 15px 25px;
+    background-image: linear-gradient(red, orange);
+    border-radius: 5px;
+    margin-bottom: 50px;
+}
+.h3{
+    margin-top: 50px;
+}
+.mission{
+    display: flex;
+}
+.choto{
+    padding: 15px 25px;
+    width: 30%;
+    margin: 0 2%;
+
+
+}
+.choto img{
+    width: 30%;
+}
+.one{
+    background-color: gainsboro;
+    border-radius: 10px;
+}
+.two{
+    background-color: sandybrown;
+    border-radius: 10px;
+}
+.three{
+    background-color: yellowgreen;
+    border-radius: 10px;
+}
+.tui{
+    text-align: center;
+}
+
+.in{
+    margin-bottom: 140px;
+    margin-left: 80px;
+}
+
+.valo{
+    display: flex;
+    background-image: url(shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    margin: 15px 45px;
+    background-size: 20%;
+    margin-bottom: 120px;
+    margin-left: 80px;
+}
+.half-pants{
+    width: 50%;
+}
+.half-pants img{
+    width: 70%;
+}
+.pagol{
+    margin-left: 130px;
+}
+.chagol{
+    margin-right: 40px;
+}
+.kharap{
+    background-image: url(shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position-y: 400px;
+    display: flex;
+    background-size: 20%;
+    margin-bottom: 120px;
+    margin-left: 80px;
+}
+.build{
+    text-align: center;
+}
+.lal{
+    color: red;
+    
+}
+.good{
+    text-align: center;
+    color: white;
+}
+.sada{
+    color: whitesmoke;
+    text-align: center;
+}
+.foot{
+    background-color: black;
+    padding: 25px 35px;
+}
